@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cf9f287-1a4d-4799-8b00-83a34b420fa4" name="Default Changelist" comment="">
+    <list default="true" id="3cf9f287-1a4d-4799-8b00-83a34b420fa4" name="Default Changelist" comment="add new code">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/src/com/luoExpress/assignment4/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/src/com/luoExpress/assignment5/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/method&amp;for&amp;while.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/DeadCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/DemoFor01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/DemoFor02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/DemoForFor01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/PrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/For/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/method/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/method/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/method/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/method/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method&amp;for&amp;while/src/com/luoExpress/method/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/ABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/ArrayListDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/demo/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/demo/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/demo/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/demo/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/demo/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/demo/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/demo/Demo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticarray/src/com/luoExpress/staticarray/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticarray/src/com/luoExpress/staticarray/StaticArrayDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticarray/src/com/luoExpress/staticarray/StaticArrayDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticarray/src/com/luoExpress/staticarray/StaticDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticarray/staticarray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javase07/com/luoExpress/demo/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javase07/com/luoExpress/demo/HelloWorld.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/luoExpress/demo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/demo/HelloWorld.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +68,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luoExpress.method" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,13 +90,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpress.demo.HelloWorld" />
-      <module name="javase07" />
+  <component name="RunManager" selected="Application.ABC">
+    <configuration name="ABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.oop.ABC" />
+      <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luoExpress.demo.*" />
+          <option name="PATTERN" value="com.luoExpress.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.oop.ArrayListDemo01" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luoExpress.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.assignment5.Q4" />
+      <module name="assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luoExpress.assignment5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.assignment4.Q5" />
+      <module name="assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luoExpress.assignment4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.oop.Test" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luoExpress.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,7 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.ABC" />
+        <item itemvalue="Application.ArrayListDemo01" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Q5" />
       </list>
     </recent_temporary>
   </component>
@@ -69,8 +177,24 @@
       <option name="presentableId" value="Default" />
       <updated>1567868517520</updated>
       <workItem from="1567868519207" duration="1363000" />
-      <workItem from="1567874864800" duration="243000" />
+      <workItem from="1567874864800" duration="1347000" />
+      <workItem from="1568243599458" duration="8081000" />
+      <workItem from="1568254382774" duration="986000" />
+      <workItem from="1568471374754" duration="6602000" />
+      <workItem from="1568848010988" duration="5697000" />
+      <workItem from="1568858213469" duration="2307000" />
+      <workItem from="1569075598177" duration="7991000" />
+      <workItem from="1569454746128" duration="7815000" />
+      <workItem from="1569679721354" duration="9341000" />
     </task>
+    <task id="LOCAL-00001" summary="add new code">
+      <created>1567875133251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567875133251</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +205,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new code" />
   </component>
 </project>
