@@ -1,19 +1,23 @@
 package com.luoExpress.oop;
 
-public class Person {
+public class Cat {
     private String name;
     private int age;
-    private String gender;
 
-    public Person() {
-    }
+    public Cat() {}
 
-    public Person(String name, int age, String gender) {
+    public Cat(String name){
         this.name = name;
-        this.age = age;
-        this.gender = gender;
     }
 
+    public Cat(int age){
+        this.age = age;
+    }
+
+    public Cat(String name,int age){
+        this(name);//this.attribute/method  this();//constructor
+        this.setAge(age);
+    }
 
     public String getName() {
         return name;
@@ -29,13 +33,5 @@ public class Person {
 
     public void setAge(int age) {
         this.age = age;
-    }
-
-    public String getGender() {
-        return gender;
-    }
-
-    public void setGender(String gender) {
-        this.gender = gender;
     }
 }

@@ -8,23 +8,16 @@ package com.luoExpress.oop;
  */
 public class Test {
     public static void main(String[] args) {
+    Student[] students = new Student[3];
+        System.out.println(students[0]);
+        System.out.println(students[1]);
+        System.out.println(students[2]);
+    students[0] = new Student("david",2,"M");
+        System.out.println(students[0]);
+    students[1] = new Student("dal",29,"M");
+        System.out.println(students[1]);
+    students[2] = new Student("tony",9,"F");
+        System.out.println(students[2]);
 
-        Student student1 = new Student();
-
-        System.out.println(student1);
-
-//        Dog dog = new Dog();
-//        //dog.eat();
-//        //set();
-//        dog.setAge(10);
-//        dog.setName("eric");
-//        dog.setWeight(20.00);
-//
-//        //constructor
-//        Dog dog1 = new Dog("tony");
-//        System.out.println(dog1.getName());
-//        Dog dog2 = new Dog("adam",3,23.4);
-//
-//        System.out.println(dog2.getAge()+","+dog2.getName()+","+dog2.getWeight());
     }
 }
