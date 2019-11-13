@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cf9f287-1a4d-4799-8b00-83a34b420fa4" name="Default Changelist" comment="update codes">
-      <change afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/poly.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/src/com/luoExpress/poly/Disk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/src/com/luoExpress/poly/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/src/com/luoExpress/poly/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/src/com/luoExpress/poly/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/src/com/luoExpress/poly/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/src/com/luoExpress/poly/USB.java" afterDir="false" />
+    <list default="true" id="3cf9f287-1a4d-4799-8b00-83a34b420fa4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/collection/collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/com/luoExpress/collection/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/com/luoExpress/collection/CollectionDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/com/luoExpress/collection/Cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/com/luoExpress/collection/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/com/luoExpress/collection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/com/luoExpress/collection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/com/luoExpress/collection/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/com/luoExpress/exception/ArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/com/luoExpress/exception/StreamException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/com/luoExpress/exception/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/com/luoExpress/exception/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/DateMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/Mission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/MyT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/mutiThread/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/mutiThread/ThreadTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/src/com/luoExpress/thread/mutiThread/Tickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/thread.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/com/luoExpress/oop/Dog.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +80,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
-    <configuration name="ArraysDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpress.arrays.ArraysDemo02" />
-      <module name="_static" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="A1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.thread.A1" />
+      <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luoExpress.arrays.*" />
+          <option name="PATTERN" value="com.luoExpress.thread.mutiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.thread.DateMin" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luoExpress.thread.mutiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.exception.StreamException" />
+      <module name="exception" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luoExpress.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,37 +121,11 @@
       </method>
     </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpess.demo.Test" />
-      <module name="extends" />
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.thread.mutiThread.Test" />
+      <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luoExpess.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpress.poly.Test" />
-      <module name="poly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luoExpress.poly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpress.oop.Test" />
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luoExpress.oop.*" />
+          <option name="PATTERN" value="com.luoExpress.thread.mutiThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpess._extends.Test" />
-      <module name="extends" />
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.thread.Test" />
+      <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luoExpess._extends.*" />
+          <option name="PATTERN" value="com.luoExpress.thread.mutiThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.DateMin" />
+        <item itemvalue="Application.A1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ArraysDemo02" />
+        <item itemvalue="Application.StreamException" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +180,14 @@
       <workItem from="1570284708970" duration="10029000" />
       <workItem from="1570385228923" duration="1806000" />
       <workItem from="1570664204440" duration="5170000" />
-      <workItem from="1570896652737" duration="3181000" />
+      <workItem from="1570896652737" duration="4015000" />
+      <workItem from="1571269776845" duration="6417000" />
+      <workItem from="1571498023611" duration="5263000" />
+      <workItem from="1572197961473" duration="6410000" />
+      <workItem from="1572379934261" duration="741000" />
+      <workItem from="1572872627557" duration="541000" />
+      <workItem from="1572922165233" duration="387000" />
+      <workItem from="1573086029997" duration="7322000" />
     </task>
     <task id="LOCAL-00001" summary="add new code">
       <created>1567875133251</created>
@@ -187,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570325942416</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update codes">
+      <created>1570900190368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570900190368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

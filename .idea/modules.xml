@@ -4,12 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_static/_static.iml" filepath="$PROJECT_DIR$/_static/_static.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignment/assignment.iml" filepath="$PROJECT_DIR$/assignment/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/extends/extends.iml" filepath="$PROJECT_DIR$/extends/extends.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase07.iml" filepath="$PROJECT_DIR$/javase07.iml" />
       <module fileurl="file://$PROJECT_DIR$/method&amp;for&amp;while/method&amp;for&amp;while.iml" filepath="$PROJECT_DIR$/method&amp;for&amp;while/method&amp;for&amp;while.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/poly/poly.iml" filepath="$PROJECT_DIR$/poly/poly.iml" />
       <module fileurl="file://$PROJECT_DIR$/staticarray/staticarray.iml" filepath="$PROJECT_DIR$/staticarray/staticarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
     </modules>
   </component>
 </project>

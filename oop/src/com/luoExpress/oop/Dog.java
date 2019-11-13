@@ -1,5 +1,7 @@
 package com.luoExpress.oop;
 
+import java.util.Objects;
+
 /**
  * encapsulation:attribute
  * unencap:method(api)
@@ -12,6 +14,22 @@ public class Dog {//this--->obj
     private double weight;
 
     public Dog(){}
+
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Dog dog = (Dog) o;
+        return age == dog.age &&
+                Double.compare(dog.weight, weight) == 0 &&
+                Objects.equals(name, dog.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, age, weight);
+    }
 
     public Dog(String name){
         this.name = name;
